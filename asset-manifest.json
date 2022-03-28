@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/SimpleCardsGame/static/js/main.11417e8e.chunk.js",
+    "main.js.map": "/SimpleCardsGame/static/js/main.11417e8e.chunk.js.map",
+    "runtime-main.js": "/SimpleCardsGame/static/js/runtime-main.968a9ea7.js",
+    "runtime-main.js.map": "/SimpleCardsGame/static/js/runtime-main.968a9ea7.js.map",
+    "static/js/2.cd464760.chunk.js": "/SimpleCardsGame/static/js/2.cd464760.chunk.js",
+    "static/js/2.cd464760.chunk.js.map": "/SimpleCardsGame/static/js/2.cd464760.chunk.js.map",
+    "index.html": "/SimpleCardsGame/index.html",
+    "static/js/2.cd464760.chunk.js.LICENSE.txt": "/SimpleCardsGame/static/js/2.cd464760.chunk.js.LICENSE.txt",
+    "static/media/2H.44b256f0.png": "/SimpleCardsGame/static/media/2H.44b256f0.png",
+    "static/media/2S.b0efcac0.png": "/SimpleCardsGame/static/media/2S.b0efcac0.png",
+    "static/media/3C.740490f6.png": "/SimpleCardsGame/static/media/3C.740490f6.png",
+    "static/media/3D.e8d502dd.png": "/SimpleCardsGame/static/media/3D.e8d502dd.png",
+    "static/media/3H.ec26afbd.png": "/SimpleCardsGame/static/media/3H.ec26afbd.png",
+    "static/media/3S.9c2eae6c.png": "/SimpleCardsGame/static/media/3S.9c2eae6c.png",
+    "static/media/4C.03a77942.png": "/SimpleCardsGame/static/media/4C.03a77942.png",
+    "static/media/4D.6198dfa5.png": "/SimpleCardsGame/static/media/4D.6198dfa5.png",
+    "static/media/4H.5c782cf1.png": "/SimpleCardsGame/static/media/4H.5c782cf1.png",
+    "static/media/4S.8c4d9f8f.png": "/SimpleCardsGame/static/media/4S.8c4d9f8f.png",
+    "static/media/5C.558517b0.png": "/SimpleCardsGame/static/media/5C.558517b0.png",
+    "static/media/5D.0eeb59f1.png": "/SimpleCardsGame/static/media/5D.0eeb59f1.png",
+    "static/media/gray_back.0afd2efb.png": "/SimpleCardsGame/static/media/gray_back.0afd2efb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.968a9ea7.js",
+    "static/js/2.cd464760.chunk.js",
+    "static/js/main.11417e8e.chunk.js"
+  ]
+}
