@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/SimpleCardsGame/static/js/main.11417e8e.chunk.js",
-    "main.js.map": "/SimpleCardsGame/static/js/main.11417e8e.chunk.js.map",
+    "main.js": "/SimpleCardsGame/static/js/main.4a4af28f.chunk.js",
+    "main.js.map": "/SimpleCardsGame/static/js/main.4a4af28f.chunk.js.map",
     "runtime-main.js": "/SimpleCardsGame/static/js/runtime-main.968a9ea7.js",
     "runtime-main.js.map": "/SimpleCardsGame/static/js/runtime-main.968a9ea7.js.map",
-    "static/js/2.cd464760.chunk.js": "/SimpleCardsGame/static/js/2.cd464760.chunk.js",
-    "static/js/2.cd464760.chunk.js.map": "/SimpleCardsGame/static/js/2.cd464760.chunk.js.map",
+    "static/js/2.7d1f1f7b.chunk.js": "/SimpleCardsGame/static/js/2.7d1f1f7b.chunk.js",
+    "static/js/2.7d1f1f7b.chunk.js.map": "/SimpleCardsGame/static/js/2.7d1f1f7b.chunk.js.map",
     "index.html": "/SimpleCardsGame/index.html",
-    "static/js/2.cd464760.chunk.js.LICENSE.txt": "/SimpleCardsGame/static/js/2.cd464760.chunk.js.LICENSE.txt",
+    "static/js/2.7d1f1f7b.chunk.js.LICENSE.txt": "/SimpleCardsGame/static/js/2.7d1f1f7b.chunk.js.LICENSE.txt",
     "static/media/2H.44b256f0.png": "/SimpleCardsGame/static/media/2H.44b256f0.png",
     "static/media/2S.b0efcac0.png": "/SimpleCardsGame/static/media/2S.b0efcac0.png",
     "static/media/3C.740490f6.png": "/SimpleCardsGame/static/media/3C.740490f6.png",
@@ -24,7 +24,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.968a9ea7.js",
-    "static/js/2.cd464760.chunk.js",
-    "static/js/main.11417e8e.chunk.js"
+    "static/js/2.7d1f1f7b.chunk.js",
+    "static/js/main.4a4af28f.chunk.js"
   ]
 }
