@@ -6,7 +6,7 @@ import Paper from '@material-ui/core/Paper';
 import styles from '../styles/styles';
 
 const Header = (props) => {
-    const { timerFormat, attempts, gameWon } = props;
+    const { timerFormat, gameWon } = props;
 
     const classes = styles();
 

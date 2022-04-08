@@ -8,6 +8,7 @@ import CardBoard from './components/CardBoard';
 import Header from './components/Header';
 import cardTypes from './constants/cardTypes';
 import WinDialog from './components/WinDialog';
+import ApplicationFooter from './components/ApplicationFooter';
 
 let isShowingCards = false;
 let interval;
@@ -187,6 +188,7 @@ const App = (props) => {
         attempts={attempts}
         resetGame={resetGame}
       />
+      <ApplicationFooter/>
     </React.Fragment>
   );
 }
