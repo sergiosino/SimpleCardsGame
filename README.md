@@ -1,6 +1,6 @@
 # GitHub Pages
 
-https://sergiosino.github.io/SimpleCardsGame/
+https://sergiosino.github.io/F1Timer/
 
 # Getting Started with Create React App
 
